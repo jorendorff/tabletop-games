@@ -499,12 +499,9 @@ side gets the most votes wins. Ties go to the Defense.
 
 ### Beyond
 
-For the next round, each player switches to a different role and the
-whole thing starts over. Once everyone has played each role once, the
-player with the most victories is named Space Lawyer of the Eon—a real
-accomplishment. It might want to consider a run for Space Governor.
-That's a whole other game. But it's never too early to start laying the
-groundwork.
+For the next round, the players switch roles and the whole thing starts
+over. The fun continues until injustice has been eliminated from the
+Universe.
 
 
 ----
