@@ -566,33 +566,6 @@ Universe.
 “I was a Galactic Agent (though of course the Agency disavows me now). The ‘victim’ was a terrorist assassin.”
 
 
-### Jury Pool deck
-
-Jury members care about:
-
-* teary appeals
-* money
-* dramatic flair
-* insectoid rights
-* pluck
-* earnestness
-* pathos
-* law & order
-* bluster
-* food
-* love
-* philosophy
-* tech
-* character testimony
-* whoever speaks last
-* space monster rights
-* celebrities
-* patriotism
-* xenophobia
-
-Each Jury Pool card has a picture and one or two items from the list above.
-
-
 ### Space Lawyer deck
 
 The Space Lawyer deck consists of all the following Evidence and Witness cards,
