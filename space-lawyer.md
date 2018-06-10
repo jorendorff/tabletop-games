@@ -97,8 +97,8 @@ Like this:
 > Mr. Smanesh's kind *(plays the "Tachyon refractometer" Evidence card,
 > drawing one to replace it).*
 
-Phew! Not looking good for the Defense. Hopefully he's got some Evidence
-of his own.
+Phew! Not looking good for the Defense. Hopefully it's got some Evidence
+of its own.
 
 Each Space Lawyer should always have seven cards in hand.
 Whenever you play a card, draw a card to replace it.
