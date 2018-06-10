@@ -383,30 +383,18 @@ authority in your courtroom. Here are the rules you need to enforce:
     (Refer back to the "What Space Lawyer is like" section for the
     trial schedule.)
 
-Whew—that's a lot of work! But with great responsibility comes great power.
-To punish a misbehaving Space Lawyer, you may rule that it must:
+Whew—that's a lot of work! But with great responsibility comes great
+power. **You may have a particularly obnoxious Space Lawyer thrown into
+the Pit of the Xorlorn.** That lawyer loses the case by default, as well
+as its various organs and souls. Reserve this power for Space Laywers
+who just can't follow the rules, take turns, and show respect. It's good
+sense and good courtroom drama to look over the rims of your glasses and
+drawl "You're treading on thin ice, Counselor!" or something as a last
+warning before pulling the trigger.
 
-*   ...play with one hand touching its nose at all times.
-
-*   ...stand on one foot.
-
-*   ...talk like Daffy Duck.
-    (Important note: Not Donald Duck. That would be ridiculous.)
-
-Use punishments sparingly. It's good sense and good courtroom drama to
-look over the rims of your glasses and drawl "You're treading on thin
-ice, Counselor!" or something as a last warning before pulling the
-trigger.
-
-In case of extreme provocation:
-
-*   You may have a particularly obnoxious Space Lawyer thrown into the
-    Pit of the Xorlorn, in which case it loses the case by default, as
-    well as its various organs and souls.
-
-It's OK, new organs and souls usually ship within 72 hours. Of course
-replacement souls are not much like the genuine article, but when you're
-a Space Lawyer, you don't worry about these things.
+Don't worry: new organs and souls usually ship within 72 hours. Of
+course replacement souls are not much like the genuine article, but when
+you're a Space Lawyer, you don't worry about these things.
 
 If a Space Lawyer manages to get thrown to the Xorlorn, it is to be
 considered a badge of honor that the Space Lawyer will carry forward
