@@ -383,31 +383,33 @@ authority in your courtroom. Here are the rules you need to enforce:
     The Technicality and LIES! cards are exceptions to this rule.
 
 4.  *Keep an eye on the clock* and make sure things wrap up on time.
-    (Refer back to the "Trial schedule" section.)
+    (Refer back to the "What Space Lawyer is like" section for the
+    trial schedule.)
 
 Whew—that's a lot of work! But with great responsibility comes great power.
-Here are the punishments you may bring to bear on misbehaving Space Lawyers:
+To punish a misbehaving Space Lawyer, you may rule that it must:
 
-*   You may require a Space Lawyer to play with one hand touching its nose
-    at all times.
+*   ...play with one hand touching its nose at all times.
 
-*   You may require a Space Laywer to stand on one foot.
+*   ...stand on one foot.
 
-*   You may require a Space Lawyer to talk like Daffy Duck.
+*   ...talk like Daffy Duck.
     (Important note: Not Donald Duck. That would be ridiculous.)
 
-*   You may have a particularly obnoxious Space Lawyer thrown into the Pit
-    of the Xorlorn, in which case it loses the case by default, as well
-    as its various organs and souls.
+Use punishments sparingly. It's good sense and good courtroom drama to
+look over the rims of your glasses and drawl "You're treading on thin
+ice, Counselor!" or something as a last warning before pulling the
+trigger.
 
-    (It's OK, new organs and souls typically ship within 72 hours.
-    Of course replacement souls are not much like the genuine article,
-    but when you're a Space Lawyer, you don't worry about these things.)
+In case of extreme provocation:
 
-All of these punishments should be used very, very sparingly. It's good
-sense and good courtroom drama to look over the rims of your glasses and
-drawl "You're treading on thin ice, Counselor!" or something as a last
-warning before pulling the trigger.
+*   You may have a particularly obnoxious Space Lawyer thrown into the
+    Pit of the Xorlorn, in which case it loses the case by default, as
+    well as its various organs and souls.
+
+It's OK, new organs and souls usually ship within 72 hours. Of course
+replacement souls are not much like the genuine article, but when you're
+a Space Lawyer, you don't worry about these things.
 
 If a Space Lawyer manages to get thrown to the Xorlorn, it is to be
 considered a badge of honor that the Space Lawyer will carry forward
