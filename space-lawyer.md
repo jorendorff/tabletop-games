@@ -495,7 +495,7 @@ Universe.
 
 ### Defense deck
 
-My hive-brother did it.
+My hive-brother did it!
 
 I had brain parasites. It got better. Could happen to anybody!
 
@@ -511,7 +511,7 @@ My DNA was planted on the scene by giant mosquitos.
 
 Time was reversed. I thought I was unstabbing the victim back to life.
 
-This so-called "crime" is just a natural part of the "victim"'s unusual reproductive cycle.
+This so-called ‘crime’ is just a natural part of the ‘victim’’s unusual reproductive cycle.
 
 This universe is not the real universe! And if you can only get me a 9.7 exawatt giggacrystal, I'll prove it!
 
@@ -535,23 +535,21 @@ I should not be punished for this crime because you can't prove I did it.
 
 I am a superior being and this was all a test. You passed! Your species will be spared.
 
-The victim was secretly Space Czar, sentenced to death in a million systems for crimes against bioticy.
+The victim was secretly Space Tsar, sentenced to death in a million systems for crimes against bioticy.
 
-This "murder" was a spectacularly clever revenge-suicide frame job.
+This ‘murder’ was a spectacularly clever revenge-suicide frame job.
 
 An implanted ego did it, using my body, while I was asleep!
 
 My own Space Lawyer did the crime, then framed me for it! Great Space, why?! Why did you do it?!!
 
-The victim's own organs rearranged themselves into me voluntarily.
-
 I only extinguished all bio-activity of the victim to save on entropy.
 
-It was a non-sentient Bean Person.
+It was a non-sentient Bean Person. What's the big deal?
 
 This is ridiculous. Even my own memory of the event is inaccessible, due to Chrono-censorship blacking out the time of the crime! How am I supposed to defend myself?
 
-My brain was swapped into this body after the murder.
+My brain was swapped into this body after the murder!
 
 I couldn't have done it! Look at me, I'm a giant snail!
 
@@ -565,7 +563,7 @@ I can't be guilty of *any* crime. My sense of right and wrong was punched out by
 
 As a Mantis Woman, it is my legal right to kill and/or devour a man after sex.
 
-I was a Galactic Agent (though of course the Agency disavows me now). The "victim" was a terrorist assassin.
+I was a Galactic Agent (though of course the Agency disavows me now). The ‘victim’ was a terrorist assassin.
 
 
 ### Jury Pool deck
