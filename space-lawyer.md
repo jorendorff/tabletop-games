@@ -495,75 +495,75 @@ Universe.
 
 ### Defense deck
 
-My hive-brother did it!
+“My hive-brother did it!”
 
-I had brain parasites. It got better. Could happen to anybody!
+“I had brain parasites. It got better. Could happen to anybody!”
 
-I've been framed. The witnesses are all cryptids disguised as people.
+“I've been framed. The witnesses are all cryptids disguised as people.”
 
-I couldn't have committed the crime because I didn't exist. I was cloned fresh on Thursday.
+“I couldn't have committed the crime because I didn't exist. I was cloned fresh on Thursday.”
 
-This court has no jurisdiction because the killing happened inside an event horizon.
+“This court has no jurisdiction because the killing happened inside an event horizon.”
 
-Everyone else in the universe is guilty EXCEPT me!
+“Everyone else in the universe is guilty EXCEPT me!”
 
-My DNA was planted on the scene by giant mosquitos.
+“My DNA was planted on the scene by giant mosquitos.”
 
-Time was reversed. I thought I was unstabbing the victim back to life.
+“Time was reversed. I thought I was unstabbing the victim back to life.”
 
-This so-called ‘crime’ is just a natural part of the ‘victim’’s unusual reproductive cycle.
+“This so-called ‘crime’ is just a natural part of the ‘victim’’s unusual reproductive cycle.”
 
-This universe is not the real universe! And if you can only get me a 9.7 exawatt giggacrystal, I'll prove it!
+“This universe is not the real universe! And if you can only get me a 9.7 exawatt giggacrystal, I'll prove it!”
 
-On Wagoo IV, crime is meaningless, because on that planet all possibilities occur simultaneously.
+“On Wagoo IV, crime is meaningless, because on that planet all possibilities occur simultaneously.”
 
-Time travelers did it.
+“Time travelers did it.”
 
-I couldn't have committed the crime. I was dormant in the death-vaults of Thanator IX.
+“I couldn't have committed the crime. I was dormant in the death-vaults of Thanator IX.”
 
-My people are the willing servants of mightly Gleethrax! We all did it!
+“My people are the willing servants of mightly Gleethrax! We all did it!”
 
-The crime would have been committed in the Subjunctive Mode. Any victims were strictly hypothetical.
+“The crime would have been committed in the Subjunctive Mode. Any victims were strictly hypothetical.”
 
-I misunderstood the victim's anatomy. I thought we were just ... wrestling.
+“I misunderstood the victim's anatomy. I thought we were just ... wrestling.”
 
-The victim was chosen as the vector for a Death Seed that would have killed billions.
+“The victim was chosen as the vector for a Death Seed that would have killed billions.”
 
-I didn't do it—it was my Other Self—HER mole is on the RIGHT!
+“I didn't do it—it was my Other Self—HER mole is on the RIGHT!”
 
-I should not be punished for this crime because you can't prove I did it.
+“I should not be punished for this crime because you can't prove I did it.”
 
-I am a superior being and this was all a test. You passed! Your species will be spared.
+“I am a superior being and this was all a test. You passed! Your species will be spared.”
 
-The victim was secretly Space Tsar, sentenced to death in a million systems for crimes against bioticy.
+“The victim was secretly Space Tsar, sentenced to death in a million systems for crimes against bioticy.”
 
-This ‘murder’ was a spectacularly clever revenge-suicide frame job.
+“This ‘murder’ was a spectacularly clever revenge-suicide frame job.”
 
-An implanted ego did it, using my body, while I was asleep!
+“An implanted ego did it, using my body, while I was asleep!”
 
-My own Space Lawyer did the crime, then framed me for it! Great Space, why?! Why did you do it?!!
+“My own Space Lawyer did the crime, then framed me for it! Great Space, why?! Why did you do it?!!”
 
-I only extinguished all bio-activity of the victim to save on entropy.
+“I only extinguished all bio-activity of the victim to save on entropy.”
 
-It was a non-sentient Bean Person. What's the big deal?
+“It was a non-sentient Bean Person. What's the big deal?”
 
-This is ridiculous. Even my own memory of the event is inaccessible, due to Chrono-censorship blacking out the time of the crime! How am I supposed to defend myself?
+“This is ridiculous. Even my own memory of the event is inaccessible, due to Chrono-censorship blacking out the time of the crime! How am I supposed to defend myself?”
 
-My brain was swapped into this body after the murder!
+“My brain was swapped into this body after the murder!”
 
-I couldn't have done it! Look at me, I'm a giant snail!
+“I couldn't have done it! Look at me, I'm a giant snail!”
 
-I was trying to save the victim's life—dammit, I'm a Space Doctor! Its hearts weren't where I expected, that's all.
+“I was trying to save the victim's life—dammit, I'm a Space Doctor! Its hearts weren't where I expected, that's all.”
 
-It was self defense. The victim was about to go nova!
+“It was self defense. The victim was about to go nova!”
 
-My symbiote did it.
+“My symbiote did it.”
 
-I can't be guilty of *any* crime. My sense of right and wrong was punched out by a tachyon pulse.
+“I can't be guilty of *any* crime. My sense of right and wrong was punched out by a tachyon pulse.”
 
-As a Mantis Woman, it is my legal right to kill and/or devour a man after sex.
+“As a Mantis Woman, it is my legal right to kill and/or devour a man after sex.”
 
-I was a Galactic Agent (though of course the Agency disavows me now). The ‘victim’ was a terrorist assassin.
+“I was a Galactic Agent (though of course the Agency disavows me now). The ‘victim’ was a terrorist assassin.”
 
 
 ### Jury Pool deck
