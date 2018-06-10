@@ -4,7 +4,6 @@ for 3 or more players
 Ingredients:
 *   the Space Lawyer deck
 *   the Defense deck
-*   the Jury deck
 *   a ~~time machine~~ timer
 
 
@@ -32,8 +31,6 @@ At the beginning of each round, here's what you need to do.
 *   Deal each Space Lawyer seven cards from the Space Lawyer deck.
 
 *   Deal the Defense three cards from the Defense deck.
-
-*   Deal each member of the Jury one card from the Jury deck, face-up.
 
 Before the trial can begin, the players need to figure out a few more bits of information.
 
@@ -475,26 +472,13 @@ The rules are different from the rest of the trial:
 
 ### Decision
 
-After Closing Arguments, each Juror looks at its Juror card and decides
-how that Juror would vote on the case. Jurors are not necessarily
-impartial; every Juror has its own biases (listed on the cards).
-
-For example, a Juror card might have a picture of a giant bug and the
-text "cares about: insectoid rights". If the Defense presents the
-defendant as an innocent insectoid being framed by mammalian cops, this
-Juror might be especially receptive to that argument, especially if any
-of the Prosecutor's witnesses are caught in LIES!
-
-But all Jurors are trying to guess at the truth, and can be swayed by
-Witnesses and Evidence—if they believe them.
-
-*The Rules of Canon do not apply to the Jury's brains.* Space Jurors are
-free to believe or refuse to believe whatever they want.
+After Closing Arguments, the Space Lawyers must be silent while the Jury
+members decide the case. After a bit of discussion, each Jury member in
+turn must vote Guilty or Not Guilty.
 
 Space Juries don't have to convict unanimously. That's a weird Human
-thing. (We also don't bother asking Jurors "Do you think you can be
-fair?"  Seriously, where do you get this stuff.) In Space, whichever
-side gets the most votes wins. Ties go to the Defense.
+thing. In Space, whichever side gets the most votes wins. Ties go to the
+Defense.
 
 
 ### Beyond
