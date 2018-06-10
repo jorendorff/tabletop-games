@@ -20,6 +20,15 @@ At the beginning of each round, here's what you need to do.
     If there are extra players, they'll be the **Jury** and **Witnesses**;
     if not, the Judge does these jobs too.
 
+*   Look through the Space Lawyer deck until you see a person.
+    Put this card face-up in front of the Prosecutor.
+    This is the murder victim.
+
+*   Keep looking until you see another person.
+    Put this card face-up in front of the Defense.
+    This is the defendant, the person who stands accused of murder.
+    Shuffle the rest of the deck.
+
 *   Deal each Space Lawyer seven cards from the Space Lawyer deck.
 
 *   Deal the Defense three cards from the Defense deck.
@@ -31,11 +40,7 @@ Before the trial can begin, the players need to figure out a few more bits of in
 *   The Judge tells the Space Lawyers how it wants to be addressed.
     For your first game, just use "Judge" or "Your Honor".
 
-*   The Defense announces the defendant's name.
-    (The *defendant* is the person who stands accused of murder.
-    It typically have no role in the trial, although it can be called as a witness.)
-
-*   The Prosecutor chooses the victim's name and the cause of death.
+*   The Prosecutor chooses the cause of death.
 
 When that's done, set a timer for four minutes, and court is in session.
 
@@ -258,7 +263,7 @@ Your first responsibility is to start the game. *Before the timer starts,*
 you need to figure out what your opening line will be.
 You must include these three things:
 
-*   the defendant's name (chosen by the Defense)
+*   the defendant's name
 
 *   the victim's name
 
@@ -271,8 +276,8 @@ Remember how the example above started?
 > Smanesh,* the victim is one Lord Moneypants, found dead and frozen
 > solid in a meat locker.
 
-Let's see: 1) The defendant is Logor Smanesh; 2) the victim is Lord Moneypants; 3)
-Moneypants apparently froze to death. Perfect.
+Let's see: 1) The defendant is Logor Smanesh; 2) the victim is Lord
+Moneypants; 3) Moneypants apparently froze to death. Perfect.
 
 Here's another example:
 
