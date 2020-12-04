@@ -616,6 +616,25 @@ Evidence cards:
 * severed eyestalk
 * puddle of frozen time
 
+UNTESTED:
+
+* reality helmet
+* podcasting equipment
+* misfiled nanoforensics report
+* long-lost tribe of nanobots
+* errata
+* molting tank
+* rhyming kaleidoscope
+* Mnemoshop memory-editing globware
+* swapped numbers
+* transfinite induction coils
+* unlicensed integer
+* grievance bomb
+* free-floating unheld delusion
+* question-questioning virus
+* shed skin
+
+
 Witnesses:
 
 * Det. Smileybot - tough guy - prejudiced - can't lie
@@ -665,3 +684,9 @@ Witnesses:
 * Viktor Grim - soulless - terse - authoritarian
 
 * Fifi - yappy - can't lie
+
+UNTESTED:
+
+* Ester Marplex - nosy old lady - persnickety - amateur sleuth
+
+* Fanny Queuetrex - explorer - sly - saucy - irritable
