@@ -155,16 +155,16 @@ Players may customize their characters in two ways:
     Many players just won't ask for any changes. But this step is
     important. First, it gives players the opportunity to ask the GM to
     change any trait they're uncomfortable with ("hopeless romantic",
-    "cusses extravagantly"). It can also let them steal a trait they're
-    really really keen on from the other character they looked at. And,
-    especially for experienced roleplayers, this lets them shape their
-    character almost however they want.
+    "prayerful", "cusses extravagantly"). It can also let them steal a
+    trait they're really really keen on from the other character they
+    looked at. And, especially for experienced roleplayers, this lets
+    them shape their character almost however they want.
 
     The GM has veto power. GMs should keep these points in mind when
     considering character changes:
 
     *   Good traits are drawable, roleplayable, non-disruptive,
-        striking, and appealing. A bad trait can mess up the game.
+        and fun. A bad trait can mess up the game.
 
     *   With a certain kind of player, you have to watch out for power
         creep.
