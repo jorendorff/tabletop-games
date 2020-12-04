@@ -291,17 +291,26 @@ player gets to try one thing and roll the die one time. Between turns,
 or on their turn, the GM can roll for whatever other people in the
 story—non-player characters—are trying to do.
 
+**Revealing character.** Players never reveal their trait cards during
+the adventure, but they must portray their character traits through
+role-playing. (There are some rules about this; see "Rules about
+revealing your character traits", below.)  Other players need to be
+watching for this and taking notes! Learning your buddies' character
+traits is one of the ways you score points.
+
+Your notes turn out to be really important when a one-day adventure
+later turns out to be a two-day adventure after all!
+
 (Gamemaster's guide:) You will need to help players bring out their
 traits, because they'll forget that part of the game is going on. Some
 traits need a rather specific chance to shine; be as heavy-handed as you
 like in bringing those opportunities about.
 
-(Gamemaster's guide:) Quiet players may need encouragement. Some folks
-much prefer staying quiet; and if they're sitting back and enjoying
-their friends' banter, fine. But if you can coax every player into
+(Gamemaster's guide:) Quiet players may need encouragement. Don't put
+pressure on people who hate it; but if you can coax every player into
 exhibiting a character trait or two, everyone will be more pleased at
-the end. Action scenes, at least, get everyone involved (everyone takes
-turns). So does Storytelling.
+the end. Action scenes, at least, get everyone involved. (Everyone takes
+turns.) So does Storytelling.
 
 
 ## Storytelling
@@ -604,10 +613,9 @@ use your judgment or ask the other players what they think.
 
 *   Players must get no points for artistic ability. If the trait is
     "hopeless romantic", and the picture shows a stick figure holding a
-    daisy, give them the point—they did it that way because not everyone
-    can draw a rose.
+    daisy, give them the point. Not everyone can draw a rose.
 
-Do the same for all the other characters. Tally up the points.
+Once every player has revealed all their traits, tally up the points.
 Most points wins! There's no tie-breaker; ties are joint victories.
 
 Suppose you're in a game with four characters. You're playing one of the
