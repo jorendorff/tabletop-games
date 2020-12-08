@@ -444,14 +444,6 @@ As we will see later, the rules strictly limit Telling, but not Showing.
     the trait. (you, as Lobelia: "It's OK, fellas—I have a ship at the
     spaceport, ready to lift off. But it'll cost ya.")
 
-    TODO: Consider adding a rule that any time you do a Tell, it costs
-    you a point. It'd probably still be worthwhile to do a bunch of
-    Tells for physical traits, get them out of the way right at the
-    beginning and help other players picture you in their
-    minds. However, enforcing the rule would make it really obvious when
-    someone has done a Tell, and the uncertainty is kind of important
-    too.
-
     Tells are an easy way to give out information, but there are some
     rules that limit when you're allowed to do a Tell.
 
