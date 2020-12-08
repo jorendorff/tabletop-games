@@ -244,6 +244,14 @@ many options for Storytelling.
 From experience, it's not great for a Bond to be "These characters just
 met, but they've been hearing very good things about each other."
 
+(untested) Instead, pairs of players choose from two bond cards, rather
+like how players choose from two identifamy decks; and this happens as
+prep, days in advance, before the identifamy decks are made.
+
+(untested) For a point each, a pair of players can strike a word or
+phrase on their chosen bond card and replace it with something
+better. The players and GM have to agree on the change.
+
 (untested) For a shorter game, it seems possible to just bond with one
 other character. If the number of players is odd, the unpaired character
 can have a bond with the bonus character.
