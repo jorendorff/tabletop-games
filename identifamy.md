@@ -625,8 +625,9 @@ characters, so there are three others. In theory, you can get up to 30
 points from drawing them. And you can get up to 30 points for having
 role-played your traits properly, so the others draw good pictures of
 you. That makes a maximum score of 60. If there's a bonus character, you
-can get up to 70. (In practice, it's hard. A total score of (untested)
-35 is typically game-winning.)
+can get up to 70. (In practice, it's hard. Even in a long game, where
+everyone gets plenty of time to reveal their character, a total score of
+44 can be game-winning. Shorter games will score lower.)
 
 ----
 
