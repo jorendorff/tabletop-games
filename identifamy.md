@@ -223,6 +223,13 @@ trait cards, their choice, to the other player, who writes them
 down. Then the two players and the GM come up with a shared back story
 for these two characters based on the revealed traits.
 
+TODO -- I think I'm selling this short. You tell the players "in the
+middle of the game, you two will get to role-play a side quest
+together. It can be whatever you want, as long as the story comes out of
+your shared past. It's like a flashback. And you get to GM it yourself
+if you want to! Or you can make the dice say whatever you want! You're
+in total control!"
+
 Then repeat this process for all the other neighbor pairs.
 
 (untested) The best kind of bond provides at least a cool origin story,
@@ -659,6 +666,10 @@ into these categories:
         "Australian accent"; "talks like the pig in *Toy Story*"; "often
         says 'possibly, possibly'")
 
+        Avoid accents unless you're sure the player can do that accent,
+        and likes it enough to keep it up the whole game.  Catchphrases
+        seem to go over well, and players like picking their own.
+
 *   Items:
 
     *   Clothes, shoes, and armor ("bowler hat, fancy suit"; "goes
@@ -757,12 +768,22 @@ Likewise, it's part of the game for some traits to be easy to draw and
 some to be hard.
 
 
-## Designing characters
+## Gamemaster's guide: Designing characters
 
 Do your own thing, of course, but I mainly did it like this.
 
+First of all, I got to custom-make the characters from scratch for the
+particular players in my game. This has a lot of advantages—you can tune
+the characters to what you think a player will enjoy playing, how much
+role-playing they actually want to do, what they're comfortable with,
+their own gender (or other traits), what accents they can pull off, and
+so on.
+
+If you're going to do pick-up games, though, it probably helps to have a
+bunch of extra random characters ready to pull out and use.
+
 I tried to come up with a character concept and personality first, then
-turn them into a deck.
+turn it into a deck.
 
 Every character should have:
 
@@ -800,5 +821,6 @@ Every character should have:
 
 That may add up to 12 or so. Combine traits to make it all fit.
 
-At the last minute, check and make sure there's a good mix of
-easy/hard-to-roleplay and easy/hard-to-draw traits.
+At the last minute, check and make sure there's a good mix of traits
+that are easy to roleplay and traits that are hard to roleplay; as well
+as traits that are easy and hard to draw.
