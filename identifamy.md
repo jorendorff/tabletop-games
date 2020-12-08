@@ -557,16 +557,26 @@ that have an `[X]` on them during Bonding.
 
 ## Drawing
 
-The players draw each others' characters, including all the details they
-learned from the game.
+Now the players draw each others' characters, including all the details
+they learned from the game.
 
-Players don't have to draw their own character.
+You can draw each character in their column on your page of notes; or
+grab a fresh sheet of paper and draw a portrait of all the characters
+together.
 
-TODO
-
-(is there a time limit?)
+You don't have to draw their own character—you won't get any points for
+drawing yourself. But pictures that show the whole team are cooler. (I
+didn't make this rule. That's just how it is.)
 
 Speech bubbles and sound effects are OK.
+
+**Time limit.** The GM chooses whether or not there's a time limit on
+drawing. The choice should be made at the last minute, because it's only
+at the end of the story that you know how invested the players are in
+the characters (and how tired everyone is).
+
+Just as a heads up: drawing four people, trying to squeeze in up to 40
+specific details, can easily eat up an hour.
 
 
 ## Scoring
