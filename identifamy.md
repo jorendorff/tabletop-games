@@ -711,12 +711,22 @@ into these categories:
         facial expressions ("wide-eyed, enthusiastic"; "acrobatic")
 
     *   Your voice and verbal habits ("thunderous, arresting voice";
-        "Australian accent"; "talks like the pig in *Toy Story*"; "often
-        says 'possibly, possibly'")
+        "voice like a creaky door hinge"; "often says 'possibly,
+        possibly'")
 
-        Avoid accents unless you're sure the player can do that accent,
-        and likes it enough to keep it up the whole game.  Catchphrases
-        seem to go over well, and players like picking their own.
+        I know. You're itching to put "Australian accent" on a card. Be
+        advised: *players are worse at doing accents than you can
+        possibly imagine*. You think they can do it. They think they can
+        do it. They can't do it, mate. But that's not even the whole
+        problem: accents are also impossible to draw!  Clevah playahs
+        mawwwight tinkah with the spellin' in a speech bubble, or work
+        in a "G'day, mate!!" Already not super satisfying. But you're
+        just as likely to end up with a kangaroo or the Sydney Opera
+        House in the background. Or a ton of eraser marks signifying the
+        Sydney Opera House. You've been warned.
+
+        Catchphrases seem to go over well, and players like picking
+        their own. Ka-pow! Lightnin' don't lie!
 
 *   Items:
 
