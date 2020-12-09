@@ -161,28 +161,46 @@ Players may customize their characters in two ways:
     something totally different. A sword can be changed to an axe. Or a
     box of fishing tackle. Or a sweet, wrinkled face.
 
-    Many players just won't ask for any changes. But this step is
-    important. First, it gives players the opportunity to ask the GM to
-    change any trait they're uncomfortable with ("hopeless romantic",
-    "prayerful", "cusses extravagantly"). It can also let them steal a
-    trait they're really really keen on from the other character they
-    looked at. And, especially for experienced roleplayers, this lets
-    them shape their character almost however they want.
+The GM spends a minute with each player, going over these character
+changes where the other players can't hear.
 
-    The GM has veto power. GMs should keep these points in mind when
-    considering character changes:
+The GM has veto power over character customizations. For example, a GM
+may decide not to let you answer the question "How do you most often
+interact with your pet crow?" by saying "swap souls with it" (perhaps
+too magical) or "give it hard corvid drugs in exchange for stolen
+jewelry" (perhaps too dark).
 
-    *   Good traits are drawable, roleplayable, non-disruptive,
-        and fun. A bad trait can mess up the game.
+Once your character is worked out, hang on to your trait deck, still
+keeping it secret from the other players. You'll want to look through it
+sometimes during the game.
 
-    *   With a certain kind of player, you have to watch out for power
-        creep.
+(Gamemaster's guide:) The rules say players can ask you for any
+character changes they want—literally anything. Surprisingly many
+players won't ask for any changes at all! But inviting them to do so is
+important. First, it gives players the opportunity to change any trait
+they're uncomfortable with (which will often include stuff that seems
+super tame to you, like "hopeless romantic", "prayerful", or "cusses
+extravagantly"). It can also let them steal a trait they're really keen
+on from the other character they looked at. And of course, for
+experienced roleplayers, this lets them shape their character almost
+however they want.
 
-    *   If a player looks at their two characters and decides they just
-        want to play Darth Vader instead, the GM must not allow the
-        player to turn their character trait by trait into Darth Vader.
-        (If all the players know exactly what to draw, the point of the
-        game is lost.)
+Keep these points in mind when considering character changes:
+
+*   Good traits are drawable, roleplayable, non-disruptive, and fun.
+    Bad traits can mess up the game. (It's surprisingly disappointing
+    when a player does a great job role-playing a trait, but it isn't
+    drawable, so nobody gets points for it.)
+
+*   With a certain kind of player, you have to watch out for power
+    creep.
+
+*   If a player looks at their two characters and decides they just want
+    to play Darth Vader instead, the GM must not allow the player to
+    turn their character trait by trait into Darth Vader.  (If all the
+    players know exactly what to draw, the point of the game is lost.)
+
+*   Say yes whenever you can.
 
 (Gamemaster's guide:) Of course there will be other characters in the
 story; sometimes it is fun to jot down a couple of traits for them, but
