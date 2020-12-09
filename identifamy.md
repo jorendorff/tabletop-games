@@ -1,20 +1,27 @@
 # Identifamy: a game of competitive role-playing for four to six players
 
-> *(Dr. Two-Brains has just told Becky Botsford's parents that she is WordGirl.)*
+> *(Dr. Two-Brains has just told Becky Botsford's parents that she is
+> WordGirl.)*
 >
-> Becky: Uh, interesting idea, Doctor, but I’m afraid you’re quite mistaken! *(Starts laughing awkwardly.)*
+> Becky: Uh, interesting idea, Doctor, but I’m afraid you’re quite
+> mistaken! *(Starts laughing awkwardly.)*
 >
-> Dr. Two-Brains: Ha, ha ha! Oh, am I? You really think I’m mistaken about your secret iden— *(pretending to be confused)* um… identu… identi… oh, what is that word…
+> Dr. Two-Brains: Ha, ha ha! Oh, am I? You really think I’m mistaken
+> about your secret iden— *(pretending to be confused)* um… identu…
+> identi… oh, what is that word…
 >
-> Becky: Identi— *(starts to give the correct word, then stops herself)* …I mean, I don’t know, I’m not sure!
+> Becky: Identi— *(starts to give the correct word, then stops herself)*
+> …I mean, I don’t know, I’m not sure!
 >
-> Dr. Two-Brains: Ah yes, I have it! You really think I’m mistaken about your true identi-fa-my?
+> Dr. Two-Brains: Ah yes, I have it! You really think I’m mistaken about
+> your true identi-fa-my?
 >
 > Becky: *(gags at the sound of the wrong word)*
 >
 > Mrs. Botsford: Identifamy… what’s that?
 >
-> Dr. Two-Brains: Identifamy. It means a set of traits which defines a person or thing!
+> Dr. Two-Brains: Identifamy. It means a set of traits which defines a
+> person or thing!
 >
 > Mrs. Botsford: Oh, right.
 >
@@ -24,7 +31,8 @@
 >
 > Dr. Two-Brains: *(grumbling to himself)* Hrmph… Dictionary!
 >
-> Mrs. Botsford: See? She can’t be WordGirl. She doesn’t even know what *identifamy* means!
+> Mrs. Botsford: See? She can’t be WordGirl. She doesn’t even know what
+> *identifamy* means!
 
 —"[Two Brains Forgets](https://wordgirl.fandom.com/wiki/Two_Brains_Forgets/Transcript)"
 (writen by Peggy Nicoll)
