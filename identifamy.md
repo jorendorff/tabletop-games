@@ -206,6 +206,13 @@ Keep these points in mind when considering character changes:
 story; sometimes it is fun to jot down a couple of traits for them, but
 it's not required or even encouraged. Improvise and keep the story going.
 
+(Gamemaster's guide, untested:) To show by example how to reveal
+character, you could prepare a mini-deck, 3-5 cards, for an early NPC in
+the game. After the encounter, out-of-game, you might say, "OK, can
+anyone guess what the singer's three traits were?", let the players
+guess, then reveal them. It's not clear to me if this is really
+helpful, though. The game is already long.
+
 
 ## Gathering around the table
 
