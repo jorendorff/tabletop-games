@@ -384,6 +384,12 @@ to tell it exactly how it happened. They can make the whole thing up!
 
 Either the storytellers or the GM can end the story at any time.
 
+TODO: Consider a time limit on Storytelling.
+
+TODO: Consider giving Storytelling a structure: prose scene-setting,
+followed by improv, followed by role-playing with dice, followed by
+prose wrap-up.
+
 
 ### Gamemaster's guide: Troubleshooting Storytelling
 
@@ -448,14 +454,16 @@ can say "And the proof is in your backpack—you're still carrying the
 lightning box, to this very day." The GM should do this because it's
 positively delicious, but try not to let the players abuse it.
 
+(Note: I really want to hand a player a brand-new trait card numbered
+"11" at this point, but it serves no real in-game purpose and probably
+screws up scoring.)
+
 Sometimes it's obvious when a story is over. If not, it's the GM's job
 to wrap it up. It's usually fine to end a story, no matter what's going
 on, as soon as it's not fun anymore. Don't wait for a "good stopping
 point". You can wave your hands and add a sentence summarizing the
-rest. Or the story could be interrupted by something exciting happening
-in the present.
-
-TODO: Consider a time limit on storytelling.
+rest. (untested) Or the story could be interrupted by something exciting
+happening back in the present.
 
 
 ## Rules about revealing your character traits
