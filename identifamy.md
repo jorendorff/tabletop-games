@@ -487,11 +487,10 @@ As we will see later, the rules strictly limit Telling, but not Showing.
     And, as a special exception to the rules:
 
     3.  *Contingency.* During the adventure, if you and your team are
-        making plans or in trouble, and you have a card that would fit
-        particularly well into those plans or resolve the trouble, you
-        can ask the GM for permission to have your character tell the
-        others about the trait, and have it count as a Show, rather than
-        a Tell. The GM will OK this only if:
+        making plans or in trouble, and you have a card that would be
+        awfully handy, you can ask the GM for permission to have your
+        character tell the others about the trait, and have it count as
+        a Show, rather than a Tell. The GM will OK this only if:
 
         *   it would be ridiculous for your character to keep quiet
             about this trait in this circumstance; *and*
@@ -524,37 +523,38 @@ All right. With that out of the way, here are the rules.
     a Show or a Tell, you must work it into the story at an appropriate
     time.
 
-    For example, if your character wears bright green lipstick, and she
-    calls another character on the phone, don't blurt out,
+For example, if your character wears bright green lipstick, and she
+calls another character on the phone, don't blurt out,
 
-    > "I'm wearing green lipstick, by the way."
+> "I'm wearing green lipstick, by the way."
 
-    This is a Tell, but it's against the rules because people don't
-    really talk like that on the phone!
+This is a Tell, but it's against the rules because people don't
+really talk like that on the phone!
 
-    Instead, the first time you meet you can do a much better Tell:
+Instead, the first time you meet you can do a much better Tell:
 
-    > So, the real striking thing you notice about Helene is her bright
-    > green lipstick.
+> So, the real striking thing you notice about Helene is her bright
+> green lipstick.
 
-    And if you happen to think of it, you can add:
+...and check off one of the checkboxes. If you happen to think of it,
+you can add:
 
-    > It draws attention to her mouth. Which turns down at the corners,
-    > like she's sneering at you. Then you look up at her eyes, and
-    > yeah, she is looking right at you and sneering.
+> It draws attention to her mouth. Which turns down at the corners,
+> like she's sneering at you. Then you look up at her eyes, and
+> yeah, she is looking right at you and sneering.
 
-    Now you're using one trait to hint at another. You're Showing that this
-    character might be snide and sarcastic, or have a chip on her shoulder,
-    or tend to dislike people on first sight.
+Now you're using one trait to hint at another. You're Showing that this
+character might be snide and sarcastic, or have a chip on her shoulder,
+or tend to dislike people on first sight.
 
-    What if you wanted to use a Show to reveal that your character wears
-    green lipstick? This is quite hard unless you happen to have a green
-    lipstick handy. But you might try this:
+What if you wanted to use a Show to reveal that your character wears
+green lipstick? This is quite hard unless you happen to have a green
+lipstick handy. But you might try this:
 
-    > I kiss the guard on the cheek.
+> I kiss the guard on the cheek.
 
-    If you're super lucky, the GM will say something like, "OK, you kiss
-    him. Your lipstick leaves a bright green kiss mark on his cheek."
+If you're super lucky, the GM will say something like, "OK, you kiss
+him. Your lipstick leaves a bright green kiss mark on his cheek."
 
 Showing cards to your neighbors during Bonding at the start of the game
 doesn't count as either a Show or a Tell. You're allowed to reveal cards
