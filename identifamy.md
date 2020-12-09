@@ -30,7 +30,8 @@
 (writen by Peggy Nicoll)
 
 Identifamy is the game where everyone tries to draw you based on the
-things you say and the choices you make.
+things you say and the choices you make. It is a role-playing game that
+you can win.
 
 It contains a bit of Taboo (a fantastic party game), a bit of Identik
 (another fantastic party game), a whole bunch of D&D, and a heaping
@@ -633,6 +634,14 @@ you. That makes a maximum score of 60. (In practice, it's hard. Even in
 a long game, where everyone gets plenty of time to reveal their
 character, a total score of 44 can be game-winning. Shorter games will
 score lower.)
+
+(Gamemaster's guide:) GMs will note that it is not possible for the GM
+to score points or win, which may seem unfair. The secret victory
+condition of Identifamy for the GM is for the players to have feelings
+about their characters. If the players all spend an hour drawing—if
+someone holds on to their picture afterwards—if you find out later
+they've inked or colored it—that's when you've won. Don't tell anyone
+this part. It's a secret.
 
 ----
 
