@@ -175,19 +175,9 @@ Players may customize their characters in two ways:
         (If all the players know exactly what to draw, the point of the
         game is lost.)
 
-(untested, from Mattie) The GM should also create an extra non-player
-character with its own set of 10 traits. The GM must follow the
-Show/Tell rules when playing this bonus character. This is meant to give
-the GM a chance to "lead by example" a bit. At the end of the game,
-players also draw the bonus character for up to 10 additional points.
-
-The bonus character could be: someone the player characters rescue;
-their boss; a party patron; support staff; a troublemaker who's always
-hanging around; their adversary.
-
-(Gamemaster's guide:) Of course the story will contain other people; you
-don't need to give each one a deck of traits. Improvise and keep the
-story going.
+(Gamemaster's guide:) Of course there will be other characters in the
+story; sometimes it is fun to jot down a couple of traits for them, but
+it's not required or even encouraged. Improvise and keep the story going.
 
 
 ## Gathering around the table
@@ -254,7 +244,7 @@ better. The players and GM have to agree on the change.
 
 (untested) For a shorter game, it seems possible to just bond with one
 other character. If the number of players is odd, the unpaired character
-can have a bond with the bonus character.
+can have a bond with a non-player character.
 
 
 ## Adventuring
@@ -639,10 +629,10 @@ Suppose you're in a game with four characters. You're playing one of the
 characters, so there are three others. In theory, you can get up to 30
 points from drawing them. And you can get up to 30 points for having
 role-played your traits properly, so the others draw good pictures of
-you. That makes a maximum score of 60. If there's a bonus character, you
-can get up to 70. (In practice, it's hard. Even in a long game, where
-everyone gets plenty of time to reveal their character, a total score of
-44 can be game-winning. Shorter games will score lower.)
+you. That makes a maximum score of 60. (In practice, it's hard. Even in
+a long game, where everyone gets plenty of time to reveal their
+character, a total score of 44 can be game-winning. Shorter games will
+score lower.)
 
 ----
 
