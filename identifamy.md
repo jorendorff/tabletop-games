@@ -39,7 +39,7 @@
 
 Identifamy is the game where everyone tries to draw you based on the
 things you say and the choices you make. It is a role-playing game that
-you can win.
+you can win by role-playing well!
 
 It contains a bit of Taboo (a fantastic party game), a bit of Identik
 (another fantastic party game), a whole bunch of D&D, and a heaping
@@ -89,7 +89,7 @@ The basic overview of the game is like this:
     *   You get points for other characters' traits that you portray in
         your drawing of them.
 
-    *   You get points for role-playing when *other* players manage to
+    *   You get points for role-playing when other players manage to
         draw *your* traits.
 
     *   Artistic talent scores you zero points.
@@ -109,9 +109,9 @@ the game, the GM will hand two ten-card identity decks to each
 player. Look through the two decks and chooses the one you like best,
 setting the other aside for some other time.
 
-(Note about the rejected deck: Since they've seen the whole deck, you
-might want to jot that player's name on it to make sure you don't use it
-later in a game where they are one of the *other* players.)
+(Note for GMs about the rejected deck: Since they've seen the whole
+deck, you might want to jot that player's name on it to make sure you
+don't use it later in a game where they're one of the *other* players.)
 
 Players may customize their characters in two ways:
 
@@ -348,8 +348,8 @@ like in bringing those opportunities about.
 (Gamemaster's guide:) Quiet players may need encouragement. Don't put
 pressure on people who hate it; but if you can coax every player into
 exhibiting a character trait or two, everyone will be more pleased at
-the end. Action scenes, at least, get everyone involved. (Everyone takes
-turns.) So does Storytelling.
+the end. Action scenes, at least, get everyone involved, since everyone
+takes turns. So does Storytelling.
 
 
 ## Storytelling
@@ -638,8 +638,9 @@ drawing portrays in any way, both those players—the one who played
 the character *and* the one who drew the picture—get a point.
 
 Judge *very* leniently. Award the point if you possibly can, even if
-only part of the trait is shown. There will still be borderline cases;
-use your judgment or ask the other players what they think.
+only part of the trait is shown, even if the picture gets other parts
+flat-out wrong! There will still be borderline cases; use your judgment
+or ask the other players what they think.
 
 *   If the trait to be scored is "large warhammer", and the
     picture shows a smallish warhammer, award the point.
@@ -664,6 +665,8 @@ use your judgment or ask the other players what they think.
     "hopeless romantic", and the picture shows a stick figure holding a
     daisy, give them the point. Not everyone can draw a rose.
 
+Don't take it too seriously. You should be laughing while you do this.
+
 Once every player has revealed all their traits, tally up the points.
 Most points wins! There's no tie-breaker; ties are joint victories.
 
@@ -676,13 +679,13 @@ a long game, where everyone gets plenty of time to reveal their
 character, a total score of 44 can be game-winning. Shorter games will
 score lower.)
 
-(Gamemaster's guide:) GMs will note that it is not possible for the GM
-to score points or win, which may seem unfair. The secret victory
-condition of Identifamy for the GM is for the players to have feelings
-about their characters. If the players all spend an hour drawing—if
-someone holds on to their picture afterwards—if you find out later
-they've inked or colored it—that's when you've won. Don't tell anyone
-this part. It's a secret.
+(Gamemaster's guide:) You may have noticed it is not possible for you,
+the GM, to score points or win, which may seem unfair. The secret
+victory condition of Identifamy for the GM is for the players to have
+feelings about their characters. If the players all spend an hour
+drawing—if someone holds on to their picture afterwards—if you find out
+later they've inked or colored it—that's when you've won. Don't tell
+anyone this part. It's a secret.
 
 ----
 
@@ -852,11 +855,10 @@ Every character should have:
 
 *   0-1 voice/verbal trait. No Tells.
 
-    (I need to experiment. My players had fun with catchphrases, shied
-    away from accents. I didn't try "low, raspy, monotone voice",
-    "munchkin voice", "voice like a squeaky door". But note that verbal
-    traits are drawable as speech bubbles, and the others basically
-    aren't at all.)
+    (I need to experiment more. Catchphrases are fun. I haven't tried
+    "low, raspy, monotone voice", "munchkin voice", "voice like a
+    squeaky door". But note that verbal traits are drawable as speech
+    bubbles, and the others basically aren't at all.)
 
 *   1 attitude/personality trait that's very easy to role-play. No Tells.
 
