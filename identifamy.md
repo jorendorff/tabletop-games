@@ -47,7 +47,7 @@ helping of improv.
 
 The basic overview of the game is like this:
 
-*   **Identifamy.** Each player secretly builds a character with ten
+*   **Identity.** Each player secretly builds a character with ten
     traits.
 
 *   **Bonding.** Some pairs of players establish a Bond: they reveal
@@ -82,7 +82,7 @@ The basic overview of the game is like this:
     welcome.
 
 *   **Scoring.** Players exchange drawings and, at last, each player
-    reveals all ten traits in their secret identifamy.
+    reveals all ten traits in their identity.
 
     Then points are awarded.
 
@@ -98,15 +98,15 @@ Most points wins.
 
 
 
-## Defining your identifamy
+## Your identity
 
 Identifamy has a gamemaster (GM) and three or more players. Each player
-has a character, and each character has an *identifamy*—a set of traits
+has a character, and each character has an *identity*—a set of traits
 which defines them.
 
-Your character's identifamy is made up of ten trait cards. At the start
-of the game, deal out two ten-card identifamy decks to each player. Each
-player looks through the two decks and chooses the one they like best,
+Your character's identity is made up of ten trait cards. At the start of
+the game, the GM will hand two ten-card identity decks to each
+player. Look through the two decks and chooses the one you like best,
 setting the other aside for some other time.
 
 (Note about the rejected deck: Since they've seen the whole deck, you
@@ -269,8 +269,8 @@ From experience, it's not great for a Bond to be "These characters just
 met, but they've been hearing very good things about each other."
 
 (untested) Instead, pairs of players choose from two bond cards, rather
-like how players choose from two identifamy decks; and this happens as
-prep, days in advance, before the identifamy decks are made.
+like how players choose from two identity decks; and this happens as
+prep, possibly days in advance, *before* the identity decks are made.
 
 (untested) For a point each, a pair of players can strike a word or
 phrase on their chosen bond card and replace it with something
