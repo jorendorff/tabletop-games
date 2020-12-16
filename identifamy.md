@@ -652,14 +652,18 @@ or ask the other players what they think.
     If it clearly shows a large battle-axe, probably don't award the
     point.
 
-*   If the trait is "plump, wears flowing dresses", award the point if
-    *either* half is shown. If the picture shows a stick figure in a sort
-    of dress, award the point.
+*   For traits with two parts, like "plump, wears flowing dresses",
+    award the point if *either* half is shown, even if they get the
+    other half wrong.
+
+    If the picture shows a stick figure in a sort of dress, award the
+    point.
 
     If it shows a roundish person but no clothes are discernable, award
     the point.
 
-    If it shows a curvy person in skin-tight clothes, award the point.
+    If it shows a person with curvy hips and tight clothes, award the
+    point.
 
 *   Players must get no points for artistic ability. If the trait is
     "hopeless romantic", and the picture shows a stick figure holding a
@@ -752,11 +756,17 @@ into these categories:
         in ("large sea-chest"; "walking cauldron"; "huge backpack";
         "shoulder bag of necessaries"; "tan duffel bag")
 
-    *   Sundries, necessaries, household items, food. These aren't
-        important from the perspective of a character's identity, but
-        during the game it's often handy to have a bit of rope or
-        what-have-you. So instead of being its own trait, this stuff can
-        be thrown in as a few bullet points on the "carryall" card.
+        On these cards you can write a short list indicating what
+        sort of stuff is inside. For example:
+
+        ```
+        tan duffel bag       [X]
+
+        - clothes for all occasions
+        - foodstuffs
+        - salvaged junk
+        - love letters
+        ```
 
 *   Personality and demeanor ("often confused, but cheerful"; "makes fun
     of others"; "prayerful"; "proud, serious"; "competitive, cocky";
