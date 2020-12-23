@@ -690,3 +690,15 @@ UNTESTED:
 * Ester Marplex - nosy old lady - persnickety - amateur sleuth
 
 * Fanny Queuetrex - explorer - sly - saucy - irritable
+
+* Teeg Notaroo - hyper-intelligent - sardonic - clearly just comedian Tig Notaro in a Space Marines uniform
+
+* Ouenesse Ouevil - hypercycle daredevil - outrage celeb
+
+* Lord Moneypants - ugh, this guy - super rich - basically a toddler
+
+* Melodia Smith 47193 - glam - clone - living her best life - has appetites
+
+* Mr. Meow - a.k.a. "Mittens" - hard - unrepentant - meow
+
+* Logor Smanesh - demonic - ready to party
