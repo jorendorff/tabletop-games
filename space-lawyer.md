@@ -559,7 +559,7 @@ Universe.
 The Space Lawyer deck consists of all the following Evidence and Witness cards,
 mixed together with 4 "Technicality" cards and 4 "LIES!" cards.
 
-Evidence cards:
+#### Evidence cards
 
 * gigaweasel tracks
 * biodroid
@@ -635,7 +635,7 @@ UNTESTED:
 * shed skin
 
 
-Witnesses:
+#### Witness cards
 
 * Det. Smileybot - tough guy - prejudiced - can't lie
 
