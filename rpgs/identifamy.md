@@ -41,19 +41,19 @@ Identifamy is the game where everyone tries to draw you based on the
 things you say and the choices you make. It is a role-playing game that
 you can win by role-playing well!
 
-It contains a bit of Taboo (a fantastic party game), a bit of Identik
-(another fantastic party game), a whole bunch of D&D, and a heaping
-helping of improv.
+It contains a bit of Taboo (a fantastic party game) and a bit of Identik
+(another fantastic party game). But Identifamy is mainly a role-playing
+game... with an extra dash of role-playing.
 
 The basic overview of the game is like this:
 
 *   **Identity.** Each player secretly builds a character with ten
     traits.
 
-*   **Bonding.** Some pairs of players establish a Bond: they reveal
-    just a couple of their traits to each other and work out a back
-    story together that tells how they met and how the two characters
-    are tied to one another.
+*   **Bonding.** Some players establish Bonds: they reveal just a couple
+    of their traits to each other and work out a back story together
+    that tells how they met and how the two characters are tied to one
+    another.
 
 *   **Adventure.** There's a story that unfolds, where the characters
     work together, get to know one another, form a team, and fight
@@ -674,6 +674,10 @@ Don't take it too seriously. You should be laughing while you do this.
 Once every player has revealed all their traits, tally up the points.
 Most points wins! There's no tie-breaker; ties are joint victories.
 
+(untested) Maybe the tie-breaker should be your role-playing score (just
+the points for other people drawing you, not the points for your
+drawing).
+
 Suppose you're in a game with four characters. You're playing one of the
 characters, so there are three others. In theory, you can get up to 30
 points from drawing them. And you can get up to 30 points for having
@@ -780,7 +784,7 @@ into these categories:
 
 *   Background ("was an Army captain")
 
-*   Pets, dependents, servants ("pet crow"; "pet mouse"; "hired valet")
+*   Pets, dependents, retainers ("pet crow"; "pet mouse"; "hired valet")
 
 *   Habits, characteristic actions, compulsive behaviors, things you
     like, things you like to do ("always trying to get people to eat a
