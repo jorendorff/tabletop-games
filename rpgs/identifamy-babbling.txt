@@ -1,0 +1,68 @@
+
+bond ::
+    ${ident} ${begin} ${what} ${end}
+
+ident_rel ::
+    siblings
+    cousins
+    childhood friends
+    academy mates
+    hometown friends
+    twins
+
+ident ::
+    You were ${ident_rel}.
+    You were ${ident_jobs}.
+
+
+end ::
+    It all fell apart ${end_why}.
+    Mmmmmm... it hasn't exactly ended.
+
+end_why ::
+    due to ${end_concept}
+    when ${end_event}
+
+end_concept ::
+    the war
+    the plague
+    famine
+    an earthquake
+    a flood
+    a stinging defeat
+    shifting military fortunes
+    shifting alliances
+    a police raid
+    a stinging betrayal
+    a revolt
+    a riot
+    an escape
+    arrests and recriminations
+    breakdown
+    explosive tempers
+    fraud and betrayal
+    nervous
+    prima donna fit
+    substance abuse
+    divine intervention
+    frayed nerves
+
+end_event ::
+    you got sloppy
+    you got caught
+    the secret got out
+    you quarreled over money
+    you quarreled over a love interest
+    you almost got caught and had to go on the run
+    one betrayed the other
+    you were both betrayed
+    one went legit
+    you were muscled out by the thieves' guild
+    you were acqui-hired by the thieves' guild
+    you looked up and realized it was a giant headache
+    you suddenly had to flee for your lives
+    an associate siezed control
+    one of you got religion
+    the bosses quarreled
+    the mayor stepped in
+    you realized you had different, irreconcilable goals
